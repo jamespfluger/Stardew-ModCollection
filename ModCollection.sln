@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyLeprechaunBoots", "Luc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoWeekendWatering", "AutoWeekendWatering\AutoWeekendWatering.csproj", "{971FCADB-C2E4-4584-A102-C75FD13EF230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveEatSound", "RemoveEatSound\RemoveEatSound.csproj", "{2C913FD3-BED8-40A7-B28F-D4D246523840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{971FCADB-C2E4-4584-A102-C75FD13EF230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{971FCADB-C2E4-4584-A102-C75FD13EF230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{971FCADB-C2E4-4584-A102-C75FD13EF230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F06CD8D-A97D-44DC-A989-6F688C6815F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F06CD8D-A97D-44DC-A989-6F688C6815F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F06CD8D-A97D-44DC-A989-6F688C6815F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F06CD8D-A97D-44DC-A989-6F688C6815F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C913FD3-BED8-40A7-B28F-D4D246523840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C913FD3-BED8-40A7-B28F-D4D246523840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C913FD3-BED8-40A7-B28F-D4D246523840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C913FD3-BED8-40A7-B28F-D4D246523840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
