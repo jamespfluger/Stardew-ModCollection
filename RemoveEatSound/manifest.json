@@ -1,7 +1,7 @@
 {
     "Name": "Remove Eat Sound",
     "Author": "The Fluffy Robot",
-    "Version": "1.0.0-RemoveEatSound-rc.1",
+    "Version": "1.0.0",
     "Description": "Removes the sound played when eating.",
     "UniqueID": "TheFluffyRobot.RemoveEatSound",
     "EntryDll": "RemoveEatSound.dll",
