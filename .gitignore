@@ -548,3 +548,4 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/csharp,windows,visualstudio,visualstudiocode
 */bin
 */obj
+Sandbox
